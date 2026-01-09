@@ -1,0 +1,6 @@
+@vcapp.Auth.API_HostAddress = http://localhost:5169
+
+GET {{vcapp.Auth.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
